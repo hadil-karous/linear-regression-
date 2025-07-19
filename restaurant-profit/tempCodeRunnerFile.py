@@ -1,0 +1,1 @@
+X=np.c_[np.ones(m),data[:,0]]
