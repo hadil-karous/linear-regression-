@@ -1,4 +1,4 @@
-# 📈 Linear Regression – CS229 Project
+# 📈 Linear Regression – CS229 LINEAR REGRESSION EXERCICE
 
 This project includes Python implementations of linear regression models from the Stanford CS229 course.
 
