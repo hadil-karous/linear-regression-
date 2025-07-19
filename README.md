@@ -16,7 +16,7 @@ This project includes Python implementations of linear regression models from th
 |--------------------|------------------------------------------|
 | `restaurantprofit.py` | Univariate linear regression for profit prediction |
 | `housepriceGd.py`     | Multivariate linear regression using gradient descent |
-| `housepriceEQ.py`     | Multivariate linear regression using the normal equation |
+| `housepriceNE.py`     | Multivariate linear regression using the normal equation |
 | `ex1data1.txt`        | Dataset for restaurant profit (population, profit) |
 | `ex1data2.txt`        | Dataset for house price (size, bedrooms, price)     |
 
